@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # Eventex
 
-Sistema de Eventos encomendado pela MOrena.
+Sistema de Eventos encomendado pela Morena.
 
 ## Como desenvolver?
 
@@ -13,7 +12,7 @@ Sistema de Eventos encomendado pela MOrena.
 6. Execute os testes
 
 ```console
-git clone git@github.com:henriquebastos/eventex.git wttd
+git clone git@github.com:robertoludwig/eventex.git wttd
 cd wttd
 python -m venv .wtdd
 source .wttd/bin/activate
@@ -40,5 +39,4 @@ heroku config:set SECRET_KEY=`python contrib/secret_gen.py`
 heroku config:set DEBUG=False
 # configuro o email e depois...
 git push heroku master --force
-
 ``` 
