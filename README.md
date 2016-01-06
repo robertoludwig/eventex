@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Eventex
 
 Sistema de Eventos encomendado pela MOrena.
