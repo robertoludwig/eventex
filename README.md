@@ -3,6 +3,7 @@
 Sistema de Eventos encomendado pela Morena.
 
 [![Build Status](https://travis-ci.org/robertoludwig/eventex.svg?branch=master)](https://travis-ci.org/robertoludwig/eventex)
+[![Code Climate](https://codeclimate.com/github/robertoludwig/eventex/badges/gpa.svg)](https://codeclimate.com/github/robertoludwig/eventex)
 
 ## Como desenvolver?
 
